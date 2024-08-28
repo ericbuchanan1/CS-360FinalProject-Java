@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EricBuchananProject2</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="weight">Weight</string>
+    <string name="graph">Graph</string>
+    <string name="display_database">Display Database</string>
+    <string name="permissions">Permissions</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="goal_weight">Set your goal weight!</string>
+</resources>
